@@ -13,7 +13,7 @@ Always learning, always creating 💡.
 * 💬  I love sharks
 
 
-<h2 align="left">💻 Tech Stack 💻</h2>
+<h2 align="left">💻 Tech Stack </h2>
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,php,laravel,nodejs,express,postgres,mysql,blender,ae,unity,threejs,figma,git,github,postman,vscode&perline=11" alt="Tech Stack" />
@@ -21,7 +21,7 @@ Always learning, always creating 💡.
 
 <br>
 
-<h2 align="left">🌐 Socials 🌐</h2>
+<h2 align="left">🌐 Socials </h2>
 
 <div align="center">
     <a href="https://www.github.com/josuegallego" target="_blank" rel="noreferrer">
