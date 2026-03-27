@@ -1,5 +1,5 @@
 
-  # <img src="Group 19.png" width="5000"/> Welcome to Josu's GitHub🦈
+  # <img src="Group 19.png" width="5000"/> Welcome to Josu's GitHub!🦈
 
 Hi I’m Josu, a Multimedia Engineer in training and Fullstack Developer.
 I enjoy building web apps, interactive experiences, and games, mixing creativity with code.
