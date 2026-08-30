@@ -27,9 +27,6 @@ Always learning, always creating 💡.
     <a href="https://www.github.com/josuegallego" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
     </a>
-    <a href="https://www.x.com/josugallego" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
-    </a>
     <a href="https://www.linkedin.com/in/josué-gallego-b0ba03210/" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
     </a>
